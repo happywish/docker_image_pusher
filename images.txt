@@ -1,1 +1,2 @@
 rabbitmq:3.13.3-management
+aspire-dashboard:8.0.0
